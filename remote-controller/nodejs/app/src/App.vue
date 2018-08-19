@@ -26,8 +26,7 @@
 </template>
 
 <script>
-    import Hello from './components/Hello.vue'
-import { setInterval } from 'timers';
+    import { setInterval } from 'timers';
 
     // With shell.openExternal(url) is how
     // external urls must be handled, not href
@@ -36,7 +35,6 @@ import { setInterval } from 'timers';
 
     export default {
         components: {
-            Hello
         },
         data: () => ({
             host: "192.168.2.106",
