@@ -1,5 +1,5 @@
 wifi.setmode(wifi.STATION)
-wifi.sta.config({ssid = "NoPainNoGain-2G", pwd = "passwordwifi"})
+wifi.sta.config({ssid = "WifiName", pwd = "passwordwifi"})
 
 MOTOR_1_PIN_1 = 1
 MOTOR_1_PIN_2 = 2
@@ -32,7 +32,7 @@ function handleMotorDirection(outputPin1, outputPin2, command)
 end
 
 function handleWifiConnected()
-    print("\nConnected to NoPainNoGain-2G")
+    print("\nConnected to WLAN")
     print("\nIP: ")
     print(wifi.sta.getip())
 end
