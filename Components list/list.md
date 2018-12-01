@@ -15,3 +15,5 @@ Bear in mind that this list is based on by built bot. Feel free to swap any bell
 | Couple of wires | Alot |
 
 (*) I'm so lazy, and I bought a very decent one on Amazon (Not very expensive). If buying is not your option. You can make your own frame with cardboard, food can, etc.
+
+Amazon link: https://www.amazon.co.jp/gp/product/B01KT8XGWG/ref=oh_aui_detailpage_o03_s00?ie=UTF8&psc=1
