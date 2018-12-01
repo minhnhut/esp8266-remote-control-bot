@@ -2,13 +2,7 @@ Simple electron app that act as remote control for our bot
 
 ## Install
 ``` bash
-# Clone the repository once
-$ git clone https://github.com/pastahito/electron-vue-webpack
-
-# Go into the repository (rename it as you wish)
-$ cd electron-vue-webpack
-
-# Install the 7 only dependencies once
+# Install the dependencies once
 $ npm install
 ```
 
