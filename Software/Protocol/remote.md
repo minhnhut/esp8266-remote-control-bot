@@ -12,7 +12,7 @@ Default port that Bot will listen on is 80. Any incoming connection will make Bo
 | Waiting         | Off         | After connected to WLAN. Bot will stand by, and waiting for incoming connection on port 80 (config in init.lua).                         |
 | Online          | On          | Remote device connected to BOT's TCP port. LED will be bright to indicate that connection was successful.                                |
 
-![State diagram](https://raw.githubusercontent.com/minhnhut/esp8266-remote-control-bot/master/protocol/imgs/ESP8226_State.jpg)
+![State diagram](https://raw.githubusercontent.com/minhnhut/esp8266-remote-control-bot/master/Software/Protocol/imgs/ESP8226_State.jpg)
 
 ## Connection - Handshake
 
